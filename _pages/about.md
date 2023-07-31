@@ -1,23 +1,18 @@
 ---
 permalink: /
-title: "👋 Hello there, I'm Kunal!"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-💻 I am a software developer at Societe Generale Global Solution Center, Bangalore. 
+ I am a software developer at Societe Generale Global Solution Center, Bangalore. I completed my majors in Electronics and Instrumentation Engineering from BITS Pilani. I have 2 years of experience in full-stack development, data engineering and internship experience in NLP. My research interests are broadly defined at the intersection of Machine Learning, Artificial Intelligence, and Data Science.
 
-🎓 I completed my majors in Electronics and Instrumentationfrom BITS Pilani. 
 
-👨‍💻 I have 2 years of experience in full-stack development and data engineering. 
+## Education
 
-🔬My research interests are in the domains of Natural Language Processing and Computer Vision. 
-
-Education
-------
-* **B.E.(Hons.) Electronics and Instrumentation**
-BITS Pilani
-2017-2021
+- **B.E. in Electronics and Instrumentation**  
+  BITS Pilani, 2017 – 2021  
+  Pilani, Rajasthan, India

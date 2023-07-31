@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kunal Dudhavat"
-  avatar           : "profile_pic.jpeg"
+  avatar           : https://github.com/kunaldudhavat/kunaldudhavat.github.io/blob/master/images/profile_pic.png?raw=true"
   bio              : "Software Engineer"
   location         : "Bengaluru, India"
   employer         :  Societe Generale Global Solution Centre
