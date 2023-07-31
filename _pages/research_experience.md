@@ -16,7 +16,7 @@ author_profile: true
 
 ### Attention based Image Captioning System using ResNet and LSTM
 *Dr. Surekha Bhanot, BITS Pilani* <br/>
-Time: Aug 2019 - Dec 2019<br>
+Aug 2019 - Dec 2019<br>
 * Designed a system that automatically generated image descriptions
 * Produced a BLEU-4 score of 29.1%, which was then state-of-the-art perofrmance on the official Microsoft COCO benchmark<br>
 *Keywords*: LSTM, ResNet-18, Computer Vision, NLP, Deep Learning<br/>
