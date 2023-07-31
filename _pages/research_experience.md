@@ -45,6 +45,6 @@ Jan 2020 - Jun 2020 <br/>
 ### PID controller design of nonlinear systems using an improved particle swarm optimization approach
 *Dr. Puneet Mishra, BITS Pilani* <br/>
 Jan 2020 - Jun 2020 <br/>
-* Optimized PID controller gains for a nonlinear system (inverted pendulum). the original PSO algorithm in convergence speed and accuracy in finding global minimum 
-*Keywords*: Computational Optimization, Particle Swarm Optimization<br/>
+* Optimized PID controller gains for a nonlinear system (inverted pendulum). the original PSO algorithm in convergence speed and accuracy in finding global minimum<br> 
+*Keywords*: Particle Swarm Optimization, Fuzzy Logic<br/>
 
