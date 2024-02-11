@@ -16,13 +16,13 @@ author_profile: true
 
 ## Societe Generale Global Solution Centre, Bangalore
 * *Software Engineer, Investment Banking division* <br/>
-Time: Sep 2021 - Present <br/>
+Time: Sep 2021 - Jan 2023 <br/>
 Topics: Full-stack development, Software engineering, Data Engineering <br/>
 
 ## Aditya Birla Group - Data & Analytics, Bangalore
 * *Data Science Intern, Products team* <br/>
 Time: Jul 2020 - Dec 2020 <br/>
-Topics:  Natural Language Processing, Deep Learning, Machine Learning <br/>
+Topics:  Natural Language Processing, Deep Learning, Artificial Intelligence <br/>
 
 ## Carraro India, Pvt. Ltd
 * *Research Intern*  <br/>

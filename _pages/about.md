@@ -8,11 +8,20 @@ redirect_from:
   - /about.html
 ---
 
- I am a software developer at Societe Generale Global Solution Center, Bangalore. I completed my majors in Electronics and Instrumentation Engineering from BITS Pilani. I have 2 years full-time work-experience in full-stack development, data engineering and internship experience in NLP. My research interests are broadly defined at the intersection of Machine Learning, Artificial Intelligence, and Data Science.
+ I am currently pursuing an MS in Computer Science (ML Concentration) at Rutgers University-New Brunswick. 
 
+I majored in Electronics and Instrumentation from BITS Pilani, where I pursued various projects and internships in the domains of Deep Learning and NLP, extracting valuable insights from unstructured data sources.
+
+I have about 2.5 years of experience as an SDE at Société Générale in the Investment Banking Division, where I contributed to the development and optimization of tech solutions in a dynamic environment. I am experienced in building responsive web interfaces, robust APIs, and employing Agile methodologies. 
+
+My passion lies in exploring the potential of AI, particularly in the realms of NLP and Reinforcement Learning. I am looking forward to connecting with professionals and engaging in opportunities in AI and software development, aiming to drive technological advancement.
 
 ## Education
 
+- **MS in Computer Science**
+  Rutgers University, New Brunswick, Jan 2024 - Dec 2025 
+  New Brunswick, New Jersey, United States
+
 - **B.E. in Electronics and Instrumentation**  
-  BITS Pilani, 2017 – 2021  
+  BITS Pilani, Aug 2017 – Jun 2021  
   Pilani, Rajasthan, India
