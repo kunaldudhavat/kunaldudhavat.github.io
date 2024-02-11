@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
- I am currently pursuing an MS in Computer Science (ML Concentration) at Rutgers University-New Brunswick. 
+ I am currently pursuing an MS in Computer Science (ML Concentration) at Rutgers University - New Brunswick. 
 
 I majored in Electronics and Instrumentation from BITS Pilani, where I pursued various projects and internships in the domains of Deep Learning and NLP, extracting valuable insights from unstructured data sources.
 
@@ -18,10 +18,11 @@ My passion lies in exploring the potential of AI, particularly in the realms of 
 
 ## Education
 
-- **MS in Computer Science**
-  Rutgers University, New Brunswick, Jan 2024 - Dec 2025 
+- **MS in Computer Science**  
+  Rutgers University, Jan 2024 – Dec 2025  
   New Brunswick, New Jersey, United States
 
 - **B.E. in Electronics and Instrumentation**  
   BITS Pilani, Aug 2017 – Jun 2021  
   Pilani, Rajasthan, India
+
